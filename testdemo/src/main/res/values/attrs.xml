@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SwitchButton">
+        <attr name="textOn" format="string"/>
+        <attr name="textOff" format="string"/>
+        <attr name="textSize_ab" format="dimension"/>
+        <attr name="bg_bitmap" format="reference"/>
+        <attr name="btn_bitmap" format="reference"/>
+    </declare-styleable>
+</resources>
