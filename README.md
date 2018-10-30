@@ -1,7 +1,7 @@
 # 自定义滑动开关按钮-SwitchButton-进阶
 ```
 之前写过这样一个简单的控件，详情可见：
-[自定义滑动开关按钮-SwitchButton](http://blog.csdn.net/u012424449/article/details/51678311)
+[自定义滑动开关按钮-SwitchButton](https://www.baidu.com)
 发现还是有点不方便，存在一些问题：
     1.字体没有居中显示
     2.图片和字都是固定的，不灵活
