@@ -12,4 +12,6 @@
 原文：https://blog.csdn.net/u012424449/article/details/51759776 
 版权声明：本文为博主原创文章，转载请附上博文链接！
 ```
+<center>
 ![图片](https://raw.githubusercontent.com/yangmyc/SwitchButton/master/testdemo/src/main/res/mipmap-hdpi/ic_launcher.png)
+</center>
