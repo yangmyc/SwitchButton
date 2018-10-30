@@ -1,5 +1,4 @@
 # 自定义滑动开关按钮-SwitchButton-进阶
-```
 之前写过这样一个简单的控件，详情可见：
 [我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")
 发现还是有点不方便，存在一些问题：
@@ -11,7 +10,6 @@
 来源：CSDN 
 原文：https://blog.csdn.net/u012424449/article/details/51759776 
 版权声明：本文为博主原创文章，转载请附上博文链接！
-```
 ![这里写图片描述](https://raw.githubusercontent.com/yangmyc/SwitchButton/master/20160625190025527.gif)
 
 	1.首先在values目录里添加xml文件:attrs，自定义属性,具体如下：
