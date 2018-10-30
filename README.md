@@ -26,7 +26,7 @@
 		
 	2.新建一个类继承系统View,在创建的时候获取xml中的属性，具体代码如下：
 ```
- TypedArray a = context.obtainStyledAttributes(attrs, R.styleable.AutoButton);
+ 	TypedArray a = context.obtainStyledAttributes(attrs, R.styleable.AutoButton);
         Drawable bg_Drawable = a.getDrawable(R.styleable.AutoButton_bg_bitmap);
         Drawable btn_Drawable = a.getDrawable(R.styleable.AutoButton_btn_bitmap);
         textOn = a.getString(R.styleable.AutoButton_textOn);
