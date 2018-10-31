@@ -6,7 +6,7 @@
 <br/>2.图片和字都是固定的，不灵活 
 <br/>于是在这基础上进行了改良，效果如下，和上次效果几乎一样。本来是有点击事件的，但是这录屏软件好像屏蔽了，录制的时候不会出现，录制完了就会出现屏蔽掉的Toast。
 
-![这里写图片描述](https://raw.githubusercontent.com/yangmyc/SwitchButton/master/20160625190025527.gif)
+![滑动开关](https://raw.githubusercontent.com/yangmyc/SwitchButton/master/20160625190025527.gif  "开关")
 	
 	1.首先在values目录里添加xml文件:attrs，自定义属性,具体如下：
 	attrs.xml
