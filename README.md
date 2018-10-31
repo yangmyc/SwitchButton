@@ -1,4 +1,9 @@
 # 自定义滑动开关按钮-SwitchButton-进阶
+> Markdown Revision 1;  --update 2018/10/31 10:55
+> Date: 2018/10/31  
+> Editor: yang  
+> Contact: 1101255053@qq.com  
+
 之前写过这样一个简单的控件，详情可见：
 [自定义滑动开关按钮-SwitchButton](http://blog.csdn.net/u012424449/article/details/51678311)
 发现还是有点不方便，存在一些问题：
